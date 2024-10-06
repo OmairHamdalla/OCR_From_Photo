@@ -1,0 +1,15 @@
+Hello,
+
+I am omair and i am training on OCR
+I am just writing more and more texts to see how the code would take different lines
+so more and more lines are being wrriteen here just to test the power of this tool.
+It is essential to use this tool with python libraries
+
+Especially here:
+
+Woooo, this is a weird place for text
+
+Whats this text?
+
+from PIL import Image
+import pytesseract
